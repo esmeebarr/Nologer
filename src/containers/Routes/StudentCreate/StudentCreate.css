@@ -1,0 +1,17 @@
+.form {
+  border: solid 2px black;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  height: 300px;
+  width: 200px;
+}
+
+.submit {
+  display: flex;
+  justify-content: center;
+  color: rebeccapurple;
+  width: 50px;
+  height: 10px;
+  align-items: center;
+}
